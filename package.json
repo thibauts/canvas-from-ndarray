@@ -1,0 +1,23 @@
+{
+  "name": "canvas-from-ndarray",
+  "version": "1.0.0",
+  "description": "Updates a canvas RGBA pixels from an ndarray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/canvas-from-ndarray.git"
+  },
+  "keywords": [
+    "ndarray",
+    "canvas",
+    "pixels"
+  ],
+  "author": "thibauts",
+  "license": "MIT",
+  "dependencies": {
+    "set-canvas-pixels": "^1.0.0"
+  }
+}
